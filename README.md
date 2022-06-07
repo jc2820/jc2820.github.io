@@ -1,3 +1,3 @@
 # Jamie Carter
 
-Tools/links/general personal page for 2022. 
+Tools/links/general personal page for 2022.

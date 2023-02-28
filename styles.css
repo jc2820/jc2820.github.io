@@ -1,5 +1,5 @@
 * {
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 body {
@@ -16,13 +16,31 @@ ul {
     padding: 0;
 }
 
+h1 {
+    font-weight: 100;
+    letter-spacing: .05rem;
+}
+
+h2 {
+    font-weight: 100;
+    letter-spacing: .05rem;
+}
+
 p {
     margin: 0;
+    font-weight: 100;
+    letter-spacing: .05rem;
 }
 
 a {
-    color: black;
     text-decoration: underline;
+    font-weight: 100;
+    letter-spacing: .05rem;
+}
+
+li {
+    font-weight: 100;
+    letter-spacing: .05rem;
 }
 
 a:hover {
